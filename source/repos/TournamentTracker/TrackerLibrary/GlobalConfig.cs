@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TrackerLibrary.DataAccess;
 
 namespace TrackerLibrary
 {
     public static class GlobalConfig
     {
-        public static List<IDataConnection> Connections { get; private set; } = new List<IDataConnection>();
+        public static List<IDataConnection> Connections { get; private set; } 
+            = new List<IDataConnection>();
 
         public static void InitializeConnections(bool database, bool textFiles)
         {
@@ -21,7 +23,7 @@ namespace TrackerLibrary
             if (textFiles)
             {
                 //TODO Create the text Connection
-                TextConnection text = new TextConnection();
+                TextConnector text = new TextConnector();
                 Connections.Add(text);               
             }
         }
