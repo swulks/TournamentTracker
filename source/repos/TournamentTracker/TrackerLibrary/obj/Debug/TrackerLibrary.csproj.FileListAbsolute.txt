@@ -1,0 +1,9 @@
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
