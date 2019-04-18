@@ -32,7 +32,7 @@
             PlaceName = placeName;
 
             int placeNumberValue = 0;
-            int.TryParse(placeName, out placeNumberValue);
+            int.TryParse(placeNumber, out placeNumberValue);
             PlaceNumber = placeNumberValue;
 
             decimal prizeAmountValue = 0;
