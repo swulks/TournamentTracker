@@ -84,5 +84,15 @@ namespace TrackerLibrary.DataAccess
         {
             return PeopleFile.FullFilePath().LoadFile().ConvertToPersonModel();
         }
+
+        public List<TeamModel> GetTeam_All()
+        {
+            return TeamFile.FullFilePath().LoadFile().ConvertToTeamModel(PeopleFile);
+        }
+
+        public List<PrizeModel> GetPrizes_All()
+        {
+            return PrizesFile.FullFilePath().LoadFile().ConvertToPrizeModel();
+        }
     }
 }
