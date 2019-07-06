@@ -74,14 +74,14 @@ namespace TrackerUI
             // 
             this.tournamentNameTextField.Location = new System.Drawing.Point(12, 73);
             this.tournamentNameTextField.Name = "tournamentNameTextField";
-            this.tournamentNameTextField.Size = new System.Drawing.Size(206, 22);
+            this.tournamentNameTextField.Size = new System.Drawing.Size(206, 26);
             this.tournamentNameTextField.TabIndex = 9;
             // 
             // entryFeeTextBox
             // 
             this.entryFeeTextBox.Location = new System.Drawing.Point(98, 118);
             this.entryFeeTextBox.Name = "entryFeeTextBox";
-            this.entryFeeTextBox.Size = new System.Drawing.Size(67, 22);
+            this.entryFeeTextBox.Size = new System.Drawing.Size(67, 26);
             this.entryFeeTextBox.TabIndex = 11;
             this.entryFeeTextBox.Text = "0";
             // 
@@ -100,7 +100,7 @@ namespace TrackerUI
             this.selectTeamDropDown.FormattingEnabled = true;
             this.selectTeamDropDown.Location = new System.Drawing.Point(12, 193);
             this.selectTeamDropDown.Name = "selectTeamDropDown";
-            this.selectTeamDropDown.Size = new System.Drawing.Size(206, 21);
+            this.selectTeamDropDown.Size = new System.Drawing.Size(206, 27);
             this.selectTeamDropDown.TabIndex = 13;
             // 
             // selectTeamLabel
@@ -118,7 +118,7 @@ namespace TrackerUI
             this.createNewTeamLink.AutoSize = true;
             this.createNewTeamLink.Location = new System.Drawing.Point(160, 177);
             this.createNewTeamLink.Name = "createNewTeamLink";
-            this.createNewTeamLink.Size = new System.Drawing.Size(63, 13);
+            this.createNewTeamLink.Size = new System.Drawing.Size(75, 19);
             this.createNewTeamLink.TabIndex = 14;
             this.createNewTeamLink.TabStop = true;
             this.createNewTeamLink.Text = "create new";
@@ -162,9 +162,10 @@ namespace TrackerUI
             // 
             this.tournamentTeamsListBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tournamentTeamsListBox.FormattingEnabled = true;
+            this.tournamentTeamsListBox.ItemHeight = 19;
             this.tournamentTeamsListBox.Location = new System.Drawing.Point(246, 73);
             this.tournamentTeamsListBox.Name = "tournamentTeamsListBox";
-            this.tournamentTeamsListBox.Size = new System.Drawing.Size(196, 80);
+            this.tournamentTeamsListBox.Size = new System.Drawing.Size(196, 78);
             this.tournamentTeamsListBox.TabIndex = 17;
             // 
             // teamsPlayersLabel
@@ -226,9 +227,10 @@ namespace TrackerUI
             // 
             this.prizesListBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.prizesListBox.FormattingEnabled = true;
+            this.prizesListBox.ItemHeight = 19;
             this.prizesListBox.Location = new System.Drawing.Point(246, 201);
             this.prizesListBox.Name = "prizesListBox";
-            this.prizesListBox.Size = new System.Drawing.Size(196, 80);
+            this.prizesListBox.Size = new System.Drawing.Size(196, 78);
             this.prizesListBox.TabIndex = 20;
             // 
             // createTournamentButton
@@ -246,10 +248,11 @@ namespace TrackerUI
             this.createTournamentButton.TabIndex = 23;
             this.createTournamentButton.Text = "Create Tournament";
             this.createTournamentButton.UseVisualStyleBackColor = false;
+            this.createTournamentButton.Click += new System.EventHandler(this.CreateTournamentButton_Click);
             // 
             // CreateTournamentForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(561, 410);

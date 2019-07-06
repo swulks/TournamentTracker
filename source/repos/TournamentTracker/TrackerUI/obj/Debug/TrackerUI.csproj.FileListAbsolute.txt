@@ -17,3 +17,22 @@ E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTra
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentVieverForm.resources
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete

@@ -2,8 +2,12 @@
 
 namespace TrackerLibrary.Models
 {
-    class TournamentModel
+    public class TournamentModel
     {
+        /// <summary>
+        /// The identifier
+        /// </summary>
+        public int Id { get; set; }
         /// <summary>
         /// Tournament name
         /// </summary>
@@ -11,7 +15,7 @@ namespace TrackerLibrary.Models
         /// <summary>
         /// Entry type of the tournament
         /// </summary>
-        public decimal EntryType { get; set; }
+        public decimal EntryFee { get; set; }
         /// <summary>
         /// Teams that have entered
         /// </summary>
@@ -23,8 +27,6 @@ namespace TrackerLibrary.Models
         /// <summary>
         /// Numbers store
         /// </summary>
-        public List<MatchupModel> Rounds { get; set; } = new List<MatchupModel>();
-
-
+        public List<List<MatchupModel>> Rounds { get; set; } = new List<List<MatchupModel>>();
     }
 }

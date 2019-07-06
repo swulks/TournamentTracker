@@ -23,10 +23,10 @@
         /// </summary>
         public double PrizePercentage { get; set; }
 
-        public PrizeModel()
-        {
-
-        }
+        /// <summary>
+        /// Default constructor
+        /// </summary>
+        public PrizeModel() { }
         public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
         {
             PlaceName = placeName;

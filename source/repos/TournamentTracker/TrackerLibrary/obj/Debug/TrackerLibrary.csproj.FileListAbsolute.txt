@@ -7,3 +7,11 @@ E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTra
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 E:\Работа\Visual CPP\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\TournamentTracker\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
